@@ -1,1 +1,3 @@
-Initialized empty Git repository in /home/liz/21school/exam/ft_printf/.git/
+# FT_PRINTF
+
+Rewriting my own printf() function. The projects helps to learn how to use variadic arguments. It builds stronger alrogithmic skills and also  helps getting to know Unix logic better.
